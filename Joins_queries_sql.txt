@@ -1,5 +1,0 @@
-SELECT Customers.c2 AS customer_name,
-       Orders.c3 AS product_ordered
-FROM Customers
-INNER JOIN Orders
-ON Customers.c1 = Orders.c2;
