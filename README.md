@@ -1,5 +1,7 @@
 #SQL JOIN ANALYSIS
+
 ##Project Overview
+
 This project demonstrates SQL JOIN operations and data aggregation using customer and order datasets.
 
 ##Skills Practiced
